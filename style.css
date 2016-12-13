@@ -1,0 +1,59 @@
+header{
+
+  text-align: center;
+  text-decoration: blink;
+  color:black;
+  margin-top:-20px;
+height:80px;
+}
+header h2
+{
+	font-family: 'Bungee Inline', cursive;
+
+}
+
+footer{
+  margin-top: 350px;
+   background: #333;
+   color: #eee;
+}
+body{
+background-image: url("http://wallpapercave.com/wp/AhpyF88.jpg");
+
+}
+
+footer  ul.unstyle{
+    list-style: none;
+    padding: 0;
+ }
+
+
+form{
+  margin-top: 60px;
+  margin-left: 450px;
+}
+
+ #search
+{
+  text-align: center;
+  margin-left: 90px;
+}
+ #year_name
+{
+  text-align: center;
+}
+
+#button,#reset
+{
+  background-color: pink;
+}
+#section
+{
+  margin-left: 480px;
+}
+
+
+#nameyearposter
+{
+  text-align: center;
+}
